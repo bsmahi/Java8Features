@@ -6,7 +6,7 @@ was released on 18th March 2014, With the Java 8 release, Java provided supports
 
 Java 8 provides following features of 
 
-* Lambda Expressions
+* Lambda Expressions (λ)
 * Method References
 * Functional Interfaces
 * Stream API
@@ -22,3 +22,18 @@ Java 8 provides following features of
 * IO Enhancements
 * Concurrency Enhancements
 * JDBC Enhancements
+
+# Lambda(λ) Expessions 
+ 
+Lambda expression (λ) is a new and important feature of Java8, it provides a clear and concise way to represent **one method interface using an expression**. It is very **useful in collection library**. It helps to **iterate, filter and extract data** from collection.
+
+The Lambda expression is used to provide the implementation of **an interface which has functional interface**. It saves a lot of code. In case of lambda expression, we don't need to define the method again for providing the implementation.
+
+**Java lambda expression is treated as a function, so compiler does not create .class file.**
+
+## Functional Interface
+An interface which has only one abstract method is called functional interface. Java provides an annotation @FunctionalInterface, which is used to declare an interface as functional interface.
+
+Lambda expression provides implementation of *functional interface*
+
+
