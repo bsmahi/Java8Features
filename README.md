@@ -32,8 +32,12 @@ The Lambda expression is used to provide the implementation of **an interface wh
 **Java lambda expression is treated as a function, so compiler does not create .class file.**
 
 ## Functional Interface
-An interface which has ONLY **one abstract method or Single Abstract Method (SAM)** is called functional interface. Java provides an annotation *@FunctionalInterface*, which is used to declare an interface as functional interface.
+An interface which has ONLY **one abstract method or Single Abstract Method (SAM)** is called Functional Interface. Java provides an annotation *@FunctionalInterface*, which is used to declare an interface as functional interface.
 
-Lambda expression provides implementation of *functional interface*
+Lambda expression provides implementation of *Functional Interface* and it is less coding.
+
+```Java
+{ argument-list } -> { body }
+```
 
 
