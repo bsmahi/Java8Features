@@ -93,9 +93,6 @@ public class LambdaExpressionFeature {
         System.out.println("\n");
         list.forEach( (n) -> System.out.println("With Java8 Iterator Value::"+n) );
 
-
-
-
     }
 }
 ```
