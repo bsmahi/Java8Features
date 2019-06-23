@@ -6,7 +6,9 @@ Java 8 is a major feature release of Java programming language development. Its 
 was released on 18th March 2014, With the Java 8 release, Java provided supports **Functional Programming**, new Javascript Engine, new APIs for date time manipulation, new streaming API and upgrades to Java programming, JVM, Tools and Engine.
 
 ## Functional Programming
+<blackquote>
 "In computer science, functional programming is a programming paradigm—a style of building the structure and elements of computer programs—that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data. It is a declarative programming paradigm in that programming is done with expressions or declarations instead of statements."
+</blackquote>  
 
 Java 8 provides following features of 
 
