@@ -9,6 +9,7 @@ The Lambda expression is used to provide the implementation of **an interface wh
 ## Functional Interface
 An interface which has ONLY **one abstract method or Single Abstract Method (SAM)** is called Functional Interface.
 Java provides an annotation *@FunctionalInterface*, which is used to declare an interface as functional interface.
+**@Functional Interface** annotation is introduced in Java8 to mark an interface as functional. It ensures at **compile-time it has only single abstract method, otherwise it will throw compilation error**.
 
 Lambda expression provides implementation of *Functional Interface* and it is less coding.
 
