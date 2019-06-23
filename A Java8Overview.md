@@ -7,8 +7,11 @@ was released on 18th March 2014, With the Java 8 release, Java provided supports
 
 ## Functional Programming
 <blackquote>
-"In computer science, functional programming is a programming paradigm—a style of building the structure and elements of computer programs—that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data. It is a declarative programming paradigm in that programming is done with expressions or declarations instead of statements."
-</blackquote>  
+
+<p>In computer science, functional programming is a programming paradigm—a style of building the structure and elements of computer programs—that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data. It is a declarative programming paradigm in that programming is done with expressions or declarations instead of statements.</p>
+
+</blackquote> 
+
 
 Java 8 provides following features of 
 
