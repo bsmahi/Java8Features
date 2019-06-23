@@ -6,8 +6,8 @@ was released on 18th March 2014, With the Java 8 release, Java provided supports
 
 Java 8 provides following features of 
 
-[Lambda Expression](https://github.com/bsmahi/Java8Features/blob/master/Lambda%20Expressions.md)
-[Lambda Expressions(λ)] (https://github.com/bsmahi/Java8Features/blob/master/Lambda%20Expressions.md)
+*   [Lambda Expression](https://github.com/bsmahi/Java8Features/blob/master/Lambda%20Expressions.md)
+
 * Method References
 * Functional Interfaces
 * Stream API
