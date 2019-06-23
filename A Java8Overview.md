@@ -8,20 +8,19 @@ was released on 18th March 2014, With the Java 8 release, Java provided supports
 
 Java 8 provides following features of 
 
-*   [Lambda Expression](https://github.com/bsmahi/Java8Features/blob/master/Lambda%20Expressions.md)
-
-*   [Method References](https://github.com/bsmahi/Java8Features/blob/master/Method%20References.md)
-*   [Functional Interfaces](https://github.com/bsmahi/Java8Features/blob/master/Functional%20Interfaces.md)
-*   [Stream API](https://github.com/bsmahi/Java8Features/blob/master/Stream%20API.md)
-*   [Default Methods](https://github.com/bsmahi/Java8Features/blob/master/Default%20Methods.md)
-*   [Base64 Encode Decode](https://github.com/bsmahi/Java8Features/blob/master/Base64%20Encode%20Decode.md)
-*   [Static Methods in Interface](https://github.com/bsmahi/Java8Features/blob/master/Static%20Methods%20in%20Interface.md)
-*   [Optional Class](https://github.com/bsmahi/Java8Features/blob/master/Optional%20Class.md)
-*   [Collectors Class](https://github.com/bsmahi/Java8Features/blob/master/Collectors%20Class.md)
-*   [ForEach() method](https://github.com/bsmahi/Java8Features/blob/master/ForEach()%20method.md)
-*   [Parallel Array Sorting](https://github.com/bsmahi/Java8Features/blob/master/Parallel%20Array%20Sorting.md)
-*   [Nashorn Javascript Engine](https://github.com/bsmahi/Java8Features/blob/master/Nashorn%20Javascript%20Engine.md)
-*   [Type and Repeat Annotations](https://github.com/bsmahi/Java8Features/blob/master/Type%20and%20Repeat%20Annotations.md)
-*   [IO Enhancements](https://github.com/bsmahi/Java8Features/blob/master/IO%20Enhancements.md)
-*   [Concurrency Enhancements](https://github.com/bsmahi/Java8Features/blob/master/Concurrency%20Enhancements.md)
-*   [JDBC Enhancements](https://github.com/bsmahi/Java8Features/blob/master/JDBC%20Enhancements.md)
+*   [Lambda Expression](https://github.com/bsmahi/Java8Features/blob/master/Lambda%20Expressions.md){:target="_blank"}
+*   [Method References](https://github.com/bsmahi/Java8Features/blob/master/Method%20References.md){:target="_blank"}
+*   [Functional Interfaces](https://github.com/bsmahi/Java8Features/blob/master/Functional%20Interfaces.md){:target="_blank"}
+*   [Stream API](https://github.com/bsmahi/Java8Features/blob/master/Stream%20API.md){:target="_blank"}
+*   [Default Methods](https://github.com/bsmahi/Java8Features/blob/master/Default%20Methods.md){:target="_blank"}
+*   [Base64 Encode Decode](https://github.com/bsmahi/Java8Features/blob/master/Base64%20Encode%20Decode.md){:target="_blank"}
+*   [Static Methods in Interface](https://github.com/bsmahi/Java8Features/blob/master/Static%20Methods%20in%20Interface.md){:target="_blank"}
+*   [Optional Class](https://github.com/bsmahi/Java8Features/blob/master/Optional%20Class.md){:target="_blank"}
+*   [Collectors Class](https://github.com/bsmahi/Java8Features/blob/master/Collectors%20Class.md){:target="_blank"}
+*   [ForEach() method](https://github.com/bsmahi/Java8Features/blob/master/ForEach()%20method.md){:target="_blank"}
+*   [Parallel Array Sorting](https://github.com/bsmahi/Java8Features/blob/master/Parallel%20Array%20Sorting.md){:target="_blank"}
+*   [Nashorn Javascript Engine](https://github.com/bsmahi/Java8Features/blob/master/Nashorn%20Javascript%20Engine.md){:target="_blank"}
+*   [Type and Repeat Annotations](https://github.com/bsmahi/Java8Features/blob/master/Type%20and%20Repeat%20Annotations.md){:target="_blank"}
+*   [IO Enhancements](https://github.com/bsmahi/Java8Features/blob/master/IO%20Enhancements.md){:target="_blank"}
+*   [Concurrency Enhancements](https://github.com/bsmahi/Java8Features/blob/master/Concurrency%20Enhancements.md){:target="_blank"}
+*   [JDBC Enhancements](https://github.com/bsmahi/Java8Features/blob/master/JDBC%20Enhancements.md){:target="_blank"}
