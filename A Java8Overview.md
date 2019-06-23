@@ -1,4 +1,4 @@
-![alt Java 8]()
+![alt Java 8](https://github.com/bsmahi/Java8Features/blob/master/java8.jpg)
 
 # Java8Features
 Java 8 Features with an Examples
@@ -10,18 +10,18 @@ Java 8 provides following features of
 
 *   [Lambda Expression](https://github.com/bsmahi/Java8Features/blob/master/Lambda%20Expressions.md)
 
-* Method References
-* Functional Interfaces
-* Stream API
-* Default Methods
-* Base64 Encode Decode
-* Static Methods in Interface
-* Optional Class
-* Collectors Class
-* ForEach() method
-* Parallel Array Sorting
-* Nashorn Javascript Engine
-* Type and Repeat Annotations
-* IO Enhancements
-* Concurrency Enhancements
-* JDBC Enhancements
+*   [Method References](https://github.com/bsmahi/Java8Features/blob/master/Method%20References.md)
+*   [Functional Interfaces](https://github.com/bsmahi/Java8Features/blob/master/Functional%20Interfaces.md)
+*   [Stream API](https://github.com/bsmahi/Java8Features/blob/master/Stream%20API.md)
+*   [Default Methods](https://github.com/bsmahi/Java8Features/blob/master/Default%20Methods.md)
+*   [Base64 Encode Decode](https://github.com/bsmahi/Java8Features/blob/master/Base64%20Encode%20Decode.md)
+*   [Static Methods in Interface](https://github.com/bsmahi/Java8Features/blob/master/Static%20Methods%20in%20Interface.md)
+*   [Optional Class](https://github.com/bsmahi/Java8Features/blob/master/Optional%20Class.md)
+*   [Collectors Class](https://github.com/bsmahi/Java8Features/blob/master/Collectors%20Class.md)
+*   [ForEach() method](https://github.com/bsmahi/Java8Features/blob/master/ForEach()%20method.md)
+*   [Parallel Array Sorting](https://github.com/bsmahi/Java8Features/blob/master/Parallel%20Array%20Sorting.md)
+*   [Nashorn Javascript Engine](https://github.com/bsmahi/Java8Features/blob/master/Nashorn%20Javascript%20Engine.md)
+*   [Type and Repeat Annotations](https://github.com/bsmahi/Java8Features/blob/master/Type%20and%20Repeat%20Annotations.md)
+*   [IO Enhancements](https://github.com/bsmahi/Java8Features/blob/master/IO%20Enhancements.md)
+*   [Concurrency Enhancements](https://github.com/bsmahi/Java8Features/blob/master/Concurrency%20Enhancements.md)
+*   [JDBC Enhancements](https://github.com/bsmahi/Java8Features/blob/master/JDBC%20Enhancements.md)
