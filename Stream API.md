@@ -123,3 +123,15 @@ In above example, multiple operations are chained together to form something lik
        .collect(Collectors.toList());
        
   ```
+  
+  ## Searching ##
+  
+  
+  ## Reordering ##
+  
+  
+  ## Summarizing ##
+  
+  
+  ## Grouping ##
+  
