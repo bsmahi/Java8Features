@@ -91,8 +91,8 @@ In above example, multiple operations are chained together to form something lik
    a collection of names of student from the student collection. In such a case we have to use a transformation operation to      transform the person to name.
    
    
-   In the below code snippet, we use the ```map``` intermediate operator to transform ```Student``` to a ```String``` holding 
-   the name of the student. ```Student:: getName``` is [method reference] .             (https://docs.oracle.com/javase/tutorial/java/javaOO/methodreferences.html) and is equivalent to ```person ->     person.getName()```    and is an instance of a [Function] (https://docs.oracle.com/javase/8/docs/api/java/util/function/Function.html).
+ In the below code snippet, we use the ```map``` intermediate operator to transform ```Student``` to a ```String``` holding 
+ the name of the student. ```Student:: getName``` is [method reference](https://docs.oracle.com/javase/tutorial/java/javaOO/methodreferences.html) and is equivalent to ```person ->     person.getName()``` and is an instance of a [Function](https://docs.oracle.com/javase/8/docs/api/java/util/function/Function.html).
    
   ```java
     
