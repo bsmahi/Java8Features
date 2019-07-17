@@ -105,7 +105,10 @@ In above example, multiple operations are chained together to form something lik
   
   As the word suggests, filtering operations allow objects to flow through itself only if the object fulfills the conditions     laid upon by a Predicate. The filter operator is composed with the ```Predicate``` before it is applied to the Stream.
   Filtering can also be thought of as selecting few elements based on count. Stream API provides ```skip()``` and ```limit()``` operators   for this purpose.
-  In the first example below, the student -> student.getAge() < 20 Predicate is used to build a collection containing only       student below age of 20. In the second example below, 10 students are selected after skipping first 2.
+  
+  
+  In the first example below, the student -> student.getAge() < 20 Predicate is used to build a collection containing only       student below age of 20. 
+  In the second example below, 10 students are selected after skipping first 2.
   
   ```java
      // filtering using Predicate
