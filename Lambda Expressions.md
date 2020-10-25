@@ -1,4 +1,4 @@
-# Lambda(λ) Expessions 
+# Lambda(λ) Expressions 
  
 Lambda expression (λ) is a new and important feature of Java8, it provides a clear and concise way to represent **one method interface using an expression**. It is very **useful in collection library**. It helps to **iterate, filter and extract data** from collection.
 
