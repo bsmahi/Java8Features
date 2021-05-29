@@ -43,6 +43,7 @@ public class ConsumerDemo {
         Consumer<List<String>> displayNames = result -> result.forEach(System.out::println);
 
         // andThen() method transform input list of elements to upperCase.
+        // if names is null, it will throw an NullPointerException
         modifyNames.andThen(displayNames).accept(names);
     }
 }
