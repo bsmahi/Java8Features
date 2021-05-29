@@ -37,6 +37,7 @@ public class ConsumerDemo {
             }
         };
         System.out.println("Consumer Functional Interface a Single Abstract Method Using andthen() method: ");
+        // Assignement Context and Method Invocation Context
         Consumer<List<String>> displayNames = result -> result.forEach(System.out::println);
 
         // andThen() method transform input list of elements to upperCase.
