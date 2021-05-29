@@ -1,6 +1,8 @@
 # Consumer
 
-``Consumer`` is a functional interface ``which accepts one argument and returns nothing``. Since it is functional interface, which contains ONLY a single abstract method and can have a many default methods.
+``Consumer`` is a functional interface ``which accepts one argument and returns nothing``. Since it is functional interface, which contains ONLY a single abstract method and can have a many default methods. 
+
+This is a functional interface whose functional method is ``accept(Object)``.
 
 Abstract Method: ``accept(T t) or accept(Object)``
 
