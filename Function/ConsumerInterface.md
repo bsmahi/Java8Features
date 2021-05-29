@@ -1,4 +1,4 @@
-# Consumer
+# Consumer Interface
 
 ``Consumer`` is a functional interface ``which accepts one argument and returns nothing``. Since it is functional interface, which contains ONLY a single abstract method and can have a many default methods. 
 
